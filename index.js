@@ -32,7 +32,7 @@ const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
             + 'FN:Nazwa🖤\n' // full name
             + 'ORG:Owner Bot;\n' // the organization of the contact
-            + 'TEL;type=CELL;type=VOICE;waid=:+62 852-8267-7885\n' // WhatsApp ID + phone number
+            + 'TEL;type=CELL;type=VOICE;waid=:+255734980103\n' // WhatsApp ID + phone number
             + 'END:VCARD'
 prefix = '.'
 blocked = []
